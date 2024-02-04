@@ -1,0 +1,30 @@
+.score{
+    
+    display: flex;
+    background-color: #828282;
+    border: solid 2px #ffff00;
+    border-radius: 2%;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    align-self: flex-start;
+    width: 4.5em;
+    height: 4.5em;
+    margin: 20px;
+   
+}
+.score-total{
+    color: red;
+    align-self: center;
+}
+
+.score-team1{
+    font-size: 30px;
+
+}
+
+.score-team2{
+    font-size: 30px;
+}
+
+

@@ -1,0 +1,36 @@
+{
+    
+    "Rondas":[{
+        "ronda": 1,
+        "respuestas": [
+            {"respuesta":"Respuesta1",
+            "puntuacion": 50},
+            {"respuesta":"Respuesta2",
+            "puntuacion": 40},
+            {"respuesta":"Respuesta3",
+            "puntuacion": 30},
+            {"respuesta":"Respuesta4",
+            "puntuacion": 20},
+            {"respuesta":"Respuesta5",
+            "puntuacion": 10}            
+            ]
+        },
+        {
+            "ronda": 2,
+            "respuestas":[
+                {"respuesta":"Respuesta1.2",
+                 "puntuacion":50},
+                 {"respuesta":"Respuesta2.2",
+                 "puntuacion":40},
+                 {"respuesta":"Respuesta3.2",
+                 "puntuacion":30},
+                 {"respuesta":"Respuesta4.2",
+                 "puntuacion":20},
+                 {"respuesta":"Respuesta5.2",
+                 "puntuacion":10}
+            ]
+        }
+    ]
+
+
+}
